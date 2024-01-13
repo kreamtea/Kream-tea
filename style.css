@@ -1,0 +1,45 @@
+.nav-bar{
+    background-color: #756AB6;
+    padding-top: 80px;
+}
+
+.title{
+    background-color: #756AB6;
+
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background-color: white !important;
+}
+
+.btn{
+    background-color: #756AB6 ;
+    border-color: #756AB6;
+}
+
+.skills{
+    background-color: #DCD6F7;
+}
+
+.about-me{
+    background-color: #F4EEFF;
+}
+
+.contact-me{
+    background-color: #DCD6F7;
+}
+
+hr {
+    border: dotted #fff ;
+    border-bottom: none;
+    width: 100%;
+    margin: 0;
+}
+
+.footer{
+    background-color: #424874;
+    color: white;
+}
